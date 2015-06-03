@@ -1,4 +1,4 @@
-Le Code civil français, sous Git
+Le Code Civil français, sous Git
 ================================
 
 « Nul n'est censé ignorer la loi. »
